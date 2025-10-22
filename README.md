@@ -6,7 +6,7 @@
 
 ### [MIDTERM_EXAM_DEIPARINE_3C](https://github.com/RobertJoshLovesYou/MIDTERM_EXAM_DEIPARINE_3C/blob/main/MIDTERM_EXAM.ipynb)
 
-### [ACTIVITY 3](https://github.com/RobertJoshLovesYou/Data-Analytics/blob/main/Act_3_Dengue_Cases.ipynb)
+### [ACTIVITY 3](https://github.com/RobertJoshLovesYou/Data-Analytics/blob/main/activity3.ipynb)
 
 ### [ASSIGNMENT](https://github.com/RobertJoshLovesYou/Data-Analytics/blob/main/Deiparine_RobertJosh_SalaryPrediction.ipynb)
 
