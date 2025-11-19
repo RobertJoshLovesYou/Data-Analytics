@@ -10,3 +10,4 @@
 
 ### [ASSIGNMENT](https://github.com/RobertJoshLovesYou/Data-Analytics/blob/main/Deiparine_RobertJosh_SalaryPrediction.ipynb)
 
+### [GRAPH](https://github.com/RobertJoshLovesYou/graphchart/blob/main/Deiparine-3C.pbix)
