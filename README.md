@@ -10,4 +10,4 @@
 | 📊 **ACTIVITY 4 - LOGISTIC REGRESSION** | [Logistic Regression 2](https://github.com/RobertJoshLovesYou/Data-Analytics/blob/main/LogisticRegression2_deiparine.ipynb) | This activity explores logistic regression in depth, focusing on binary classification problems. It reinforces key concepts in predictive modeling and provides hands-on experience in using logistic regression for making predictions. |
 | 📊 **POWER BI** | [Graph Visualization](https://github.com/RobertJoshLovesYou/graphchart/blob/main/Deiparine-3C.pbix) | The graph activity involves using PowerBI to create interactive visualizations. This helps to communicate complex data insights in a clear and engaging manner, an essential skill for any data analyst. |
 
-](https://github.com/RobertJoshLovesYou/Data-Analytics/blob/main/LogisticRegression2_deiparine.ipynb)
+
