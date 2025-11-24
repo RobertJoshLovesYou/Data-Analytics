@@ -1,13 +1,10 @@
-# ALL ACTIVITY
+# **ALL ACTIVITY**
 
-### [ACTIVITY 1](https://github.com/RobertJoshLovesYou/Data-Analytics/blob/main/activity1.ipynb)
-
-### [ACTIVITY 2](https://github.com/RobertJoshLovesYou/Elec-303_Activity-2/blob/main/Act2_Accident.ipynb)
-
-### [MIDTERM_EXAM_DEIPARINE_3C](https://github.com/RobertJoshLovesYou/MIDTERM_EXAM_DEIPARINE_3C/blob/main/MIDTERM_EXAM.ipynb)
-
-### [ACTIVITY 3](https://github.com/RobertJoshLovesYou/Data-Analytics/blob/main/activity3.ipynb)
-
-### [ASSIGNMENT](https://github.com/RobertJoshLovesYou/Data-Analytics/blob/main/Deiparine_RobertJosh_SalaryPrediction.ipynb)
-
-### [GRAPH](https://github.com/RobertJoshLovesYou/graphchart/blob/main/Deiparine-3C.pbix)
+| **Title** | **Link** | **Reflection** |
+| --- | --- | --- |
+| 📊 **ACTIVITY 1** | [Activity 1](https://github.com/RobertJoshLovesYou/Data-Analytics/blob/main/activity1.ipynb) | This activity provides an introduction to exploratory data analysis (EDA), offering an opportunity to learn about data cleaning, feature selection, and basic visualization. It is a great exercise for anyone getting started with data analytics. |
+| 🚗 **ACTIVITY 2** | [Activity 2](https://github.com/RobertJoshLovesYou/Elec-303_Activity-2/blob/main/Act2_Accident.ipynb) | In this activity, the focus is on analyzing accident data to uncover trends and patterns in road safety. It's a crucial exercise for understanding how data analytics can be applied to improve public safety and inform policy. |
+| 🚨 **MIDTERM_EXAM_DEIPARINE_3C** | [Midterm Exam](https://github.com/RobertJoshLovesYou/MIDTERM_EXAM_DEIPARINE_3C/blob/main/MIDTERM_EXAM.ipynb) | The midterm exam integrates various data analysis skills. It challenges you to apply concepts like data visualization, statistical analysis, and interpretation in a real-world context. A valuable project for reinforcing your learning. |
+| 📝 **ACTIVITY 3** | [Activity 3](https://github.com/RobertJoshLovesYou/Data-Analytics/blob/main/activity3.ipynb) | Activity 3 dives deeper into data processing and visualization techniques. It reinforces key concepts in handling more complex datasets, and it's an excellent opportunity to practice working with data in a meaningful way. |
+| 💼 **ASSIGNMENT** | [Salary Prediction](https://github.com/RobertJoshLovesYou/Data-Analytics/blob/main/Deiparine_RobertJosh_SalaryPrediction.ipynb) | This assignment utilizes machine learning for salary prediction, focusing on factors like education, years of experience, and industry. It highlights the use of regression models for forecasting, a practical skill in data analytics. |
+| 📊 **GRAPH** | [Graph Visualization](https://github.com/RobertJoshLovesYou/graphchart/blob/main/Deiparine-3C.pbix) | The graph activity involves using PowerBI to create interactive visualizations. This helps to communicate complex data insights in a clear and engaging manner, an essential skill for any data analyst. |
